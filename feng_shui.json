@@ -6,5 +6,6 @@
   "title" : "Công Cụ Xuất File G_Code | Đồng Bộ Tên DXF | Xuất File CNC Tốc Độ Cao",
   "link_text" : "Tham Khảo Các Công Cụ Khác",
   "download_tool": "https://noithatunimuse.com/g-code-pie/",
-  "status" : "true"
+  "status" : "true",
+  "status_v1" : "true"
 }
